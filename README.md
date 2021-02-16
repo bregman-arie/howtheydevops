@@ -28,6 +28,19 @@ Happy Learning!
 </details>
 
 <details>
+  <summary>CloudBees</summary>
+
+#### Articles
+* [DevOps Best Practices: Opinionated Software That Drives a Successful DevOps Culture](https://www.cloudbees.com/blog/devops-best-practices)
+* [8 DevOps Tools You Should Use for Opinionated, Cloud Native App Development](https://www.cloudbees.com/blog/devops-tools-cloud-native-development)
+* [Continuous Verification, AKA Just Doing DevOps](https://www.cloudbees.com/blog/continuous-verification)
+
+#### Blog
+* [CloudBees Blog](https://www.cloudbees.com/blog)
+
+</details>
+
+<details>
   <summary>Microsoft</summary>
 
 #### Articles
@@ -92,6 +105,19 @@ Happy Learning!
 ## By Category
 
 <details>
+  <summary>DevOps</summary>
+
+#### Articles
+* [What is DevOps? - Amazon](https://aws.amazon.com/devops/what-is-devops)
+* [What is DevOps? - Microsoft](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops)
+* [What is DevOps? - Red Hat](https://www.redhat.com/en/topics/devops)
+* [DevOps Best Practices: Opinionated Software That Drives a Successful DevOps Culture - CloudBees](https://www.cloudbees.com/blog/devops-best-practices)
+* [8 DevOps Tools You Should Use for Opinionated, Cloud Native App Development - CloudBees](https://www.cloudbees.com/blog/devops-tools-cloud-native-development)
+* [Continuous Verification, AKA Just Doing DevOps - CloudBees](https://www.cloudbees.com/blog/continuous-verification)
+
+</details>
+
+<details>
   <summary>CI/CD</summary>
 
 #### Articles - Use Cases
@@ -112,6 +138,11 @@ Happy Learning!
 * [You call that DevSecOps? Why your DevSecOps practice may be falling short - Red Hat](https://www.redhat.com/en/blog/devsecops-reducing-risk-and-increasing-agility)
 * [Security at Speed: Modern Security and DevOps - Uber](https://medium.com/uber-security-privacy/speed-security-devops-7f3ee7e5a2ae)
 </details>
+
+### Other DevOps Projects
+
+<p align="center"><a href="https://github.com/bregman-arie/devops-exercises"><img src="images/devops_exercises.png"/></a></p>
+<p align="center"><a href="https://github.com/bregman-arie/devops-resources"><img src="images/devops_resources.png"/></a></p>
 
 ### Credits
 * Inspired by [Howtheytest](https://github.com/abhivaikar/howtheytest) from [Abhijeet Vaikar](https://github.com/abhivaikar)
