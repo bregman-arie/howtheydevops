@@ -1,20 +1,35 @@
 <p align="center"><img src="images/how_they_devops.png"/></p> 
 
-> A curated collection of publicly available resources on how software companies around the world practice DevOps
+> A curated collection of publicly available resources on how companies around the world practice DevOps
 
 ## Introduction
 
 __How They DevOps__ is a curated knowledge repository on DevOps related topics - CI/CD
 
-There are many ways to practice DevOps. Fortunately, many companies are willing to share how they do it. I believe there is much to learn from this documented use cases and published resources. The list you'll find in this repository is a list of such resources.
+There are many ways to practice DevOps. Fortunately, many companies are willing to share how they do it. I believe there is much to learn from this documented use cases and published resources. The content you'll find in this repository is a list of such resources.
 
-You'll find reosurces indexed by companies, technologies and areas.
+The reosurces are indexed by companies, technologies and DevOps related topics.
 
 Happy Learning!
 
 *Please note, that all the resources mentioned here are publicly available resources.*
 
 ## By Company
+<details>
+  <summary>Adzuna</summary>
+
+#### Articles
+* [Continuous Integration and Continuous Delivery with BitBucket Pipelines — Part 1 - 2018](https://medium.com/adzuna-engineering/continuous-integration-and-continuous-delivery-with-bitbucket-pipelines-part-1-588d8254f0b3)
+* [Continuous Integration and Continuous Delivery with BitBucket Pipelines — Part 2 - 2018](https://medium.com/adzuna-engineering/continuous-integration-and-continuous-delivery-with-bitbucket-pipelines-part-2-4d0ce7b63f2a)
+</details>
+
+<details>
+  <summary>Airbnb</summary>
+
+#### Podcasts
+* [Continuous Delivery at Airbnb - 2019](https://devops.com/devops-chat-continuous-delivery-at-airbnb)
+</details>
+
 <details>
   <summary>Amazon</summary>
 
@@ -62,6 +77,13 @@ Happy Learning!
 </details>
 
 <details>
+  <summary>Grandcentrix</summary>
+
+#### Articles
+* [How we use Jenkins Pipeline to standardize our Continuous Integration - 2019](https://medium.com/grandcentrix/how-we-use-jenkins-pipeline-to-simplify-our-continuous-integration-4fb462b0c15c)
+</details>
+
+<details>
   <summary>Microsoft</summary>
 
 #### Articles
@@ -82,6 +104,26 @@ Happy Learning!
 
 #### Blog
 * [DevOps Blog](https://netflixtechblog.com/tagged/devops)
+</details>
+
+<details>
+  <summary>Opendoor</summary>
+#### Articles
+* [How We Got To Continuous Deployment With Rails, CircleCI, and Heroku - 2017](https://medium.com/opendoor-labs/continuous-deployment-with-rails-circleci-and-heroku-314635d800c6)
+</details>
+
+<details>
+  <summary>Oursky</summary>
+
+#### Articles
+* [Battle Tested: How We Built and Master Our CI/CD Pipeline - 2019](https://m.oursky.com/battle-tested-how-we-built-and-master-our-ci-cd-pipeline-2ce99c9b2fa4)
+</details>
+
+<details>
+  <summary>Prismic</summary>
+
+#### Articles
+* [We deploy everyday and this is how!](https://medium.com/@prismicio/we-deploy-everyday-and-this-is-how-6a5fc8fb0e2e)
 </details>
 
 <details>
@@ -121,6 +163,16 @@ Happy Learning!
 ## By Technology
 
 <details>
+  <summary>CircleCI</summary>
+* [How We Got To Continuous Deployment With Rails, CircleCI, and Heroku - Opendoor, 2017](https://medium.com/opendoor-labs/continuous-deployment-with-rails-circleci-and-heroku-314635d800c6)
+</details>
+
+<details>
+  <summary>Jenkins</summary>
+* [How we use Jenkins Pipeline to standardize our Continuous Integration - Grandcentrix, 2019](https://medium.com/grandcentrix/how-we-use-jenkins-pipeline-to-simplify-our-continuous-integration-4fb462b0c15c)
+</details>
+
+<details>
   <summary>Kubernetes</summary>
 
 #### Articles
@@ -140,6 +192,11 @@ Happy Learning!
 
 #### Articles
 * [Applying Netflix DevOps Patterns to Windows](https://netflixtechblog.com/applying-netflix-devops-patterns-to-windows-2a57f2dbbf79)
+</details>
+
+<details>
+  <summary>Rails</summary>
+* [How We Got To Continuous Deployment With Rails, CircleCI, and Heroku - Opendoor, 2017](https://medium.com/opendoor-labs/continuous-deployment-with-rails-circleci-and-heroku-314635d800c6)
 </details>
 
 <details>
@@ -173,8 +230,14 @@ Happy Learning!
 <details>
   <summary>CI/CD</summary>
 
-#### Articles - Use Cases
+#### Articles - How companies practice and apply CI/CD
 * [How to Build a CI/CD Process That Deploys on Kubernetes and Focuses on Developer Independence](https://medium.com/riskified-technology/how-to-build-a-ci-cd-process-that-deploys-on-kubernetes-and-focuses-on-developer-independence-7dc4c20984a)
+* [We deploy everyday and this is how! - Prismic](https://medium.com/@prismicio/we-deploy-everyday-and-this-is-how-6a5fc8fb0e2e)
+* [Continuous Integration and Continuous Delivery with BitBucket Pipelines — Part 1 - Adzuna, 2018](https://medium.com/adzuna-engineering/continuous-integration-and-continuous-delivery-with-bitbucket-pipelines-part-1-588d8254f0b3)
+* [Continuous Integration and Continuous Delivery with BitBucket Pipelines — Part 2 - Adzuna, 2018](https://medium.com/adzuna-engineering/continuous-integration-and-continuous-delivery-with-bitbucket-pipelines-part-2-4d0ce7b63f2a)
+* [Continuous Delivery at Airbnb - 2019](https://devops.com/devops-chat-continuous-delivery-at-airbnb)
+* [Battle Tested: How We Built and Master Our CI/CD Pipeline - Oursky, 2019](https://m.oursky.com/battle-tested-how-we-built-and-master-our-ci-cd-pipeline-2ce99c9b2fa4)
+* [How we use Jenkins Pipeline to standardize our Continuous Integration - Grandcentrix, 2019](https://medium.com/grandcentrix/how-we-use-jenkins-pipeline-to-simplify-our-continuous-integration-4fb462b0c15c)
 
 #### Articles - Learn CI/CD
 * [What is a CI/CD pipeline? - Red Hat](https://www.redhat.com/en/topics/devops/what-cicd-pipeline)
