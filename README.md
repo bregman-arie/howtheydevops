@@ -8,7 +8,7 @@ __How They DevOps__ is a curated knowledge repository on DevOps related topics -
 
 There are many ways to practice DevOps. Fortunately, many companies are willing to share how they do it. I believe there is much to learn from this documented use cases and published resources. The content you'll find in this repository is a list of such resources.
 
-The reosurces are indexed by companies, technologies and DevOps related topics.
+The reosurces are indexed by companies, technologies, years and DevOps related topics
 
 Happy Learning!
 
@@ -84,6 +84,13 @@ Happy Learning!
 </details>
 
 <details>
+  <summary>Kalisio</summary>
+
+#### Articles
+* [Why We Stopped Using So-Called Best Practices in Our CI/CD Process - 2019](https://medium.com/better-programming/why-we-stopped-using-so-called-best-practices-in-our-ci-cd-process-2ff09811f633)
+</details>
+
+<details>
   <summary>Microsoft</summary>
 
 #### Articles
@@ -137,7 +144,6 @@ Happy Learning!
 * [What is a CI/CD pipeline? - Red Hat](https://www.redhat.com/en/topics/devops/what-cicd-pipeline)
 
 #### Books
-
 * [Free - DevOps with OpenShift](https://developers.redhat.com/topics/devops)
 </details>
 
@@ -147,6 +153,11 @@ Happy Learning!
 #### Articles
 * [How to Build a CI/CD Process That Deploys on Kubernetes and Focuses on Developer Independence](https://medium.com/riskified-technology/how-to-build-a-ci-cd-process-that-deploys-on-kubernetes-and-focuses-on-developer-independence-7dc4c20984a)
 
+</details>
+
+<details>
+  <summary>Trendyol</summary>
+* [Dependency Check at CI/CD Pipeline - 2020](https://medium.com/trendyol-tech/dependency-check-at-ci-cd-pipeline-17020e15b391)
 </details>
 
 <details>
@@ -160,15 +171,23 @@ Happy Learning!
 * [Uber Engineering Blog](https://eng.uber.com)
 </details>
 
+<details>
+  <summary>Verizon</summary>
+* [How our CI/CD workflow provides a model for other CDNs](https://vzmediaplatform.medium.com/how-our-ci-cd-workflow-provides-a-model-for-other-cdns-65f9f765b32a)
+</details>
+
 ## By Technology
 
 <details>
   <summary>CircleCI</summary>
+
+#### Articles
 * [How We Got To Continuous Deployment With Rails, CircleCI, and Heroku - Opendoor, 2017](https://medium.com/opendoor-labs/continuous-deployment-with-rails-circleci-and-heroku-314635d800c6)
 </details>
 
 <details>
   <summary>Jenkins</summary>
+#### Articles
 * [How we use Jenkins Pipeline to standardize our Continuous Integration - Grandcentrix, 2019](https://medium.com/grandcentrix/how-we-use-jenkins-pipeline-to-simplify-our-continuous-integration-4fb462b0c15c)
 </details>
 
@@ -196,7 +215,13 @@ Happy Learning!
 
 <details>
   <summary>Rails</summary>
+#### Articles
 * [How We Got To Continuous Deployment With Rails, CircleCI, and Heroku - Opendoor, 2017](https://medium.com/opendoor-labs/continuous-deployment-with-rails-circleci-and-heroku-314635d800c6)
+</details>
+
+<details>
+  <summary>Travis CI</summary>
+* [Why We Stopped Using So-Called Best Practices in Our CI/CD Process - Kalisio, 2019](https://medium.com/better-programming/why-we-stopped-using-so-called-best-practices-in-our-ci-cd-process-2ff09811f633)
 </details>
 
 <details>
@@ -238,6 +263,9 @@ Happy Learning!
 * [Continuous Delivery at Airbnb - 2019](https://devops.com/devops-chat-continuous-delivery-at-airbnb)
 * [Battle Tested: How We Built and Master Our CI/CD Pipeline - Oursky, 2019](https://m.oursky.com/battle-tested-how-we-built-and-master-our-ci-cd-pipeline-2ce99c9b2fa4)
 * [How we use Jenkins Pipeline to standardize our Continuous Integration - Grandcentrix, 2019](https://medium.com/grandcentrix/how-we-use-jenkins-pipeline-to-simplify-our-continuous-integration-4fb462b0c15c)
+* [How We Got To Continuous Deployment With Rails, CircleCI, and Heroku - Opendoor, 2017](https://medium.com/opendoor-labs/continuous-deployment-with-rails-circleci-and-heroku-314635d800c6)
+* [Why We Stopped Using So-Called Best Practices in Our CI/CD Process - Kalisio, 2019](https://medium.com/better-programming/why-we-stopped-using-so-called-best-practices-in-our-ci-cd-process-2ff09811f633)
+* [How our CI/CD workflow provides a model for other CDNs - Verizon, 2018](https://vzmediaplatform.medium.com/how-our-ci-cd-workflow-provides-a-model-for-other-cdns-65f9f765b32a)
 
 #### Articles - Learn CI/CD
 * [What is a CI/CD pipeline? - Red Hat](https://www.redhat.com/en/topics/devops/what-cicd-pipeline)
@@ -259,8 +287,8 @@ Happy Learning!
 #### Articles
 * [What is DevSecOps? - Red Hat](https://www.redhat.com/en/topics/devops/what-is-devsecops)
 * [You call that DevSecOps? Why your DevSecOps practice may be falling short - Red Hat](https://www.redhat.com/en/blog/devsecops-reducing-risk-and-increasing-agility)
-* [Security at Speed: Modern Security and DevOps - Uber](https://medium.com/uber-security-privacy/speed-security-devops-7f3ee7e5a2ae)
-* [Netflix Cloud Security: Detecting Credential Compromise in AWS](https://netflixtechblog.com/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
+* [Security at Speed: Modern Security and DevOps - Uber, 2017](https://medium.com/uber-security-privacy/speed-security-devops-7f3ee7e5a2ae)
+* [Netflix Cloud Security: Detecting Credential Compromise in AWS - Netflix, 2018](https://netflixtechblog.com/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
 </details>
 
 <details>
@@ -268,6 +296,28 @@ Happy Learning!
 
 #### Articles
 * [Rapid release at massive scale - Facebook, 2017](https://engineering.fb.com/2017/08/31/web/rapid-release-at-massive-scale)
+</details>
+
+## By Year
+
+<details>
+  <summary>2020</summary>
+
+#### Articles
+* [Dependency Check at CI/CD Pipeline - Trendyol](https://medium.com/trendyol-tech/dependency-check-at-ci-cd-pipeline-17020e15b391)
+</details>
+
+<details>
+  <summary>2018</summary>
+#### Articles
+* [Netflix Cloud Security: Detecting Credential Compromise in AWS - Netflix](https://netflixtechblog.com/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
+</details>
+
+<details>
+  <summary>2017</summary>
+#### Articles
+* [Rapid release at massive scale - Facebook](https://engineering.fb.com/2017/08/31/web/rapid-release-at-massive-scale)
+* [Security at Speed: Modern Security and DevOps - Uber](https://medium.com/uber-security-privacy/speed-security-devops-7f3ee7e5a2ae)
 </details>
 
 ### Other DevOps Projects
