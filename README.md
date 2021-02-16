@@ -1,5 +1,4 @@
 <p align="center"><img src="images/how_they_devops.png"/></p> 
-[![Contributions Welcome!](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 > A curated collection of publicly available resources on how software companies around the world practice DevOps
 
@@ -46,6 +45,8 @@ Happy Learning!
 * [Who is a DevOps Engineer?](https://www.redhat.com/en/topics/devops/devops-engineer)
 * [What is DevOps?](https://www.redhat.com/en/topics/devops)
 * [What is DevSecOps?](https://www.redhat.com/en/topics/devops/what-is-devsecops)
+* [You call that DevSecOps? Why your DevSecOps practice may be falling short](https://www.redhat.com/en/blog/devsecops-reducing-risk-and-increasing-agility)
+* [What is a CI/CD pipeline? - Red Hat](https://www.redhat.com/en/topics/devops/what-cicd-pipeline)
 
 #### Books
 
@@ -60,6 +61,17 @@ Happy Learning!
 
 </details>
 
+<details>
+  <summary>Uber</summary>
+
+#### Articles
+* [Security at Speed: Modern Security and DevOps](https://medium.com/uber-security-privacy/speed-security-devops-7f3ee7e5a2ae)
+* [Introducing Makisu: Uber’s Fast, Reliable Docker Image Builder for Apache Mesos and Kubernetes](https://eng.uber.com/makisu/)
+
+#### Blog
+* [Uber Engineering Blog](https://eng.uber.com)
+</details>
+
 ## By Technology
 
 <details>
@@ -67,6 +79,7 @@ Happy Learning!
 
 #### Articles
 * [How to Build a CI/CD Process That Deploys on Kubernetes and Focuses on Developer Independence](https://medium.com/riskified-technology/how-to-build-a-ci-cd-process-that-deploys-on-kubernetes-and-focuses-on-developer-independence-7dc4c20984a)
+* [Introducing Makisu: Uber’s Fast, Reliable Docker Image Builder for Apache Mesos and Kubernetes - Uber](https://eng.uber.com/makisu/)
 </details>
 
 <details>
@@ -81,8 +94,11 @@ Happy Learning!
 <details>
   <summary>CI/CD</summary>
 
-#### Articles
+#### Articles - Use Cases
 * [How to Build a CI/CD Process That Deploys on Kubernetes and Focuses on Developer Independence](https://medium.com/riskified-technology/how-to-build-a-ci-cd-process-that-deploys-on-kubernetes-and-focuses-on-developer-independence-7dc4c20984a)
+
+#### Articles - Learn CI/CD
+* [What is a CI/CD pipeline? - Red Hat](https://www.redhat.com/en/topics/devops/what-cicd-pipeline)
 
 #### Books
 * [Free - DevOps with OpenShift](https://developers.redhat.com/topics/devops)
@@ -92,14 +108,16 @@ Happy Learning!
   <summary>DevSecOps</summary>
 
 #### Articles
-* [What is DevSecOps? From Red Hat](https://www.redhat.com/en/topics/devops/what-is-devsecops)
+* [What is DevSecOps? - Red Hat](https://www.redhat.com/en/topics/devops/what-is-devsecops)
+* [You call that DevSecOps? Why your DevSecOps practice may be falling short - Red Hat](https://www.redhat.com/en/blog/devsecops-reducing-risk-and-increasing-agility)
+* [Security at Speed: Modern Security and DevOps - Uber](https://medium.com/uber-security-privacy/speed-security-devops-7f3ee7e5a2ae)
 </details>
 
-## Credits
+### Credits
 * Inspired by [Howtheytest](https://github.com/abhivaikar/howtheytest) from [Abhijeet Vaikar](https://github.com/abhivaikar)
 
-## Contribute
+### Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-## License
+### License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
