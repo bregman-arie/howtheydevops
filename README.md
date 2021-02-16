@@ -28,6 +28,17 @@ Happy Learning!
 </details>
 
 <details>
+  <summary>Atlassian</summary>
+
+#### Articles
+* [What is DevOps?](https://www.atlassian.com/devops)
+
+#### Blogs
+* [DevOps Blog](https://www.atlassian.com/blog/devops)
+* [DevOps Best Practices](https://www.atlassian.com/solutions/devops/best-practices)
+</details>
+
+<details>
   <summary>CloudBees</summary>
 
 #### Articles
@@ -41,6 +52,16 @@ Happy Learning!
 </details>
 
 <details>
+  <summary>Facebook</summary>
+
+#### Articles
+* [Rapid release at massive scale](https://engineering.fb.com/2017/08/31/web/rapid-release-at-massive-scale)
+
+#### Blog
+* [Facebook Engineering Blog](https://engineering.fb.com)
+</details>
+
+<details>
   <summary>Microsoft</summary>
 
 #### Articles
@@ -49,6 +70,18 @@ Happy Learning!
 #### Blog
 * [Azure DevOps Blog](https://devblogs.microsoft.com/devops)
 
+</details>
+
+<details>
+  <summary>Netflix</summary>
+
+#### Articles
+* [Applying Netflix DevOps Patterns to Windows](https://netflixtechblog.com/applying-netflix-devops-patterns-to-windows-2a57f2dbbf79)
+* [Lumen: Custom, Self-Service Dashboarding For Netflix](https://netflixtechblog.com/lumen-custom-self-service-dashboarding-for-netflix-8c56b541548c)
+* [Netflix Cloud Security: Detecting Credential Compromise in AWS](https://netflixtechblog.com/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
+
+#### Blog
+* [DevOps Blog](https://netflixtechblog.com/tagged/devops)
 </details>
 
 <details>
@@ -102,6 +135,20 @@ Happy Learning!
 * [Free - DevOps with OpenShift](https://developers.redhat.com/topics/devops)
 </details>
 
+<details>
+  <summary>Packer</summary>
+
+#### Articles
+* [Applying Netflix DevOps Patterns to Windows](https://netflixtechblog.com/applying-netflix-devops-patterns-to-windows-2a57f2dbbf79)
+</details>
+
+<details>
+  <summary>Windows</summary>
+
+#### Articles
+* [Applying Netflix DevOps Patterns to Windows](https://netflixtechblog.com/applying-netflix-devops-patterns-to-windows-2a57f2dbbf79)
+</details>
+
 ## By Category
 
 <details>
@@ -109,12 +156,18 @@ Happy Learning!
 
 #### Articles
 * [What is DevOps? - Amazon](https://aws.amazon.com/devops/what-is-devops)
+* [What is DevOps? - Atlassian](https://www.atlassian.com/devops)
 * [What is DevOps? - Microsoft](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops)
 * [What is DevOps? - Red Hat](https://www.redhat.com/en/topics/devops)
 * [DevOps Best Practices: Opinionated Software That Drives a Successful DevOps Culture - CloudBees](https://www.cloudbees.com/blog/devops-best-practices)
 * [8 DevOps Tools You Should Use for Opinionated, Cloud Native App Development - CloudBees](https://www.cloudbees.com/blog/devops-tools-cloud-native-development)
 * [Continuous Verification, AKA Just Doing DevOps - CloudBees](https://www.cloudbees.com/blog/continuous-verification)
 
+</details>
+
+<details>
+  <summary>AWS</summary>
+* [Netflix Cloud Security: Detecting Credential Compromise in AWS](https://netflixtechblog.com/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
 </details>
 
 <details>
@@ -131,12 +184,27 @@ Happy Learning!
 </details>
 
 <details>
+  <summary>Dashboards</summary>
+
+#### Articles
+* [Lumen: Custom, Self-Service Dashboarding For Netflix](https://netflixtechblog.com/lumen-custom-self-service-dashboarding-for-netflix-8c56b541548c)
+</details>
+
+<details>
   <summary>DevSecOps</summary>
 
 #### Articles
 * [What is DevSecOps? - Red Hat](https://www.redhat.com/en/topics/devops/what-is-devsecops)
 * [You call that DevSecOps? Why your DevSecOps practice may be falling short - Red Hat](https://www.redhat.com/en/blog/devsecops-reducing-risk-and-increasing-agility)
 * [Security at Speed: Modern Security and DevOps - Uber](https://medium.com/uber-security-privacy/speed-security-devops-7f3ee7e5a2ae)
+* [Netflix Cloud Security: Detecting Credential Compromise in AWS](https://netflixtechblog.com/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
+</details>
+
+<details>
+  <summary>Release</summary>
+
+#### Articles
+* [Rapid release at massive scale - Facebook, 2017](https://engineering.fb.com/2017/08/31/web/rapid-release-at-massive-scale)
 </details>
 
 ### Other DevOps Projects
