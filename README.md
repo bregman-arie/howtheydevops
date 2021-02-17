@@ -49,8 +49,22 @@ Happy Learning!
 * [What is DevOps?](https://www.atlassian.com/devops)
 
 #### Blogs
-* [DevOps Blog](https://www.atlassian.com/blog/devops)
+* [Atlassian DevOps Blog](https://www.atlassian.com/blog/devops)
 * [DevOps Best Practices](https://www.atlassian.com/solutions/devops/best-practices)
+</details>
+
+<details>
+  <summary>Carwow</summary>
+
+#### Articles
+* [Speeding up our deploys by ~35% - 2019](https://medium.com/carwow-product-engineering/speeding-up-our-heroku-deploys-by-35-percent-f9fa6f6cf404)
+</details>
+
+<details>
+  <summary>Cinglevue</summary>
+
+#### Articles
+* [DevOps: How to build an efficient CI/CD pipeline - 2019](https://medium.com/developers-coffee/how-to-build-an-efficient-ci-cd-pipeline-b5738ad567c8)
 </details>
 
 <details>
@@ -84,10 +98,24 @@ Happy Learning!
 </details>
 
 <details>
+  <summary>Hootsuite</summary>
+
+#### Articles
+* [Jenkins, Kubernetes, and Hashicorp Vault - 2018](https://medium.com/hootsuite-engineering/jenkins-kubernetes-and-hashicorp-vault-c2011bd2d66c)
+</details>
+
+<details>
   <summary>Kalisio</summary>
 
 #### Articles
 * [Why We Stopped Using So-Called Best Practices in Our CI/CD Process - 2019](https://medium.com/better-programming/why-we-stopped-using-so-called-best-practices-in-our-ci-cd-process-2ff09811f633)
+</details>
+
+<details>
+  <summary>Kitabisa</summary>
+
+#### Articles
+* [Our CI/CD Journey — from Monolith to Micro-Services - 2020](https://medium.com/@ardityawahyu/our-ci-cd-journey-from-monolith-to-micro-servives-9e6787dc7274)
 </details>
 
 <details>
@@ -107,7 +135,7 @@ Happy Learning!
 #### Articles
 * [Applying Netflix DevOps Patterns to Windows](https://netflixtechblog.com/applying-netflix-devops-patterns-to-windows-2a57f2dbbf79)
 * [Lumen: Custom, Self-Service Dashboarding For Netflix](https://netflixtechblog.com/lumen-custom-self-service-dashboarding-for-netflix-8c56b541548c)
-* [Netflix Cloud Security: Detecting Credential Compromise in AWS](https://netflixtechblog.com/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
+* [Netflix Cloud Security: Detecting Credential Compromise in AWS - 2018](https://netflixtechblog.com/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
 
 #### Blog
 * [DevOps Blog](https://netflixtechblog.com/tagged/devops)
@@ -115,12 +143,14 @@ Happy Learning!
 
 <details>
   <summary>90 Seconds</summary>
+
 #### Articles
 * [Lessons learned with Gitlab Runner on Kubernetes - 2019](https://medium.com/90seconds/lessons-learned-with-gitlab-runner-on-kubernetes-d547c30ad5fb)
 </details>
 
 <details>
   <summary>Opendoor</summary>
+
 #### Articles
 * [How We Got To Continuous Deployment With Rails, CircleCI, and Heroku - 2017](https://medium.com/opendoor-labs/continuous-deployment-with-rails-circleci-and-heroku-314635d800c6)
 </details>
@@ -134,6 +164,7 @@ Happy Learning!
 
 <details>
   <summary>Pixel Point</summary>
+
 #### Articles
 * [Tips and tricks for scalable CI/CD flow - 2018](https://medium.com/pixelpoint/tips-and-tricks-for-scalable-ci-cd-flow-5fa9dd457f22)
 </details>
@@ -169,6 +200,8 @@ Happy Learning!
 
 <details>
   <summary>Trendyol</summary>
+
+#### Articles
 * [Dependency Check at CI/CD Pipeline - 2020](https://medium.com/trendyol-tech/dependency-check-at-ci-cd-pipeline-17020e15b391)
 </details>
 
@@ -185,7 +218,23 @@ Happy Learning!
 
 <details>
   <summary>Verizon</summary>
-* [How our CI/CD workflow provides a model for other CDNs](https://vzmediaplatform.medium.com/how-our-ci-cd-workflow-provides-a-model-for-other-cdns-65f9f765b32a)
+
+#### Articles
+* [How our CI/CD workflow provides a model for other CDNs - 2018](https://vzmediaplatform.medium.com/how-our-ci-cd-workflow-provides-a-model-for-other-cdns-65f9f765b32a)
+</details>
+
+<details>
+  <summary>Wildlife Studios</summary>
+
+#### Articles
+* [How we improved our CI/CD pipelines over the years - 2020](https://medium.com/tech-at-wildlife-studios/how-we-built-a-ci-cd-that-makes-developers-happy-2222f02ab29)
+</details>
+
+<details>
+  <summary>XETICS</summary>
+
+#### Articles
+* [Our story with Flutter and Gitlab-Ci - 2019](https://medium.com/@fezu54/our-story-with-flutter-and-gitlab-ci-26bd40c26155)
 </details>
 
 ## By Technology
@@ -195,18 +244,31 @@ Happy Learning!
 
 #### Articles
 * [How We Got To Continuous Deployment With Rails, CircleCI, and Heroku - Opendoor, 2017](https://medium.com/opendoor-labs/continuous-deployment-with-rails-circleci-and-heroku-314635d800c6)
+* [Our CI/CD Journey — from Monolith to Micro-Services - Kitabisa, 2020](https://medium.com/@ardityawahyu/our-ci-cd-journey-from-monolith-to-micro-servives-9e6787dc7274)
 </details>
 
 <details>
   <summary>GitLab</summary>
+
 #### Articles
 * [Lessons learned with Gitlab Runner on Kubernetes - 90 seconds, 2019](https://medium.com/90seconds/lessons-learned-with-gitlab-runner-on-kubernetes-d547c30ad5fb)
+* [How we improved our CI/CD pipelines over the years - Wildlife Studios, 2020](https://medium.com/tech-at-wildlife-studios/how-we-built-a-ci-cd-that-makes-developers-happy-2222f02ab29)
+* [Our story with Flutter and Gitlab-Ci - XETICS, 2019](https://medium.com/@fezu54/our-story-with-flutter-and-gitlab-ci-26bd40c26155)
+</details>
+
+<details>
+  <summary>Heroku</summary>
+
+#### Articles
+* [Speeding up our deploys by ~35% - Carwow, 2019](https://medium.com/carwow-product-engineering/speeding-up-our-heroku-deploys-by-35-percent-f9fa6f6cf404)
+* [How We Got To Continuous Deployment With Rails, CircleCI, and Heroku - Opendoor, 2017](https://medium.com/opendoor-labs/continuous-deployment-with-rails-circleci-and-heroku-314635d800c6)
 </details>
 
 <details>
   <summary>Jenkins</summary>
 #### Articles
 * [How we use Jenkins Pipeline to standardize our Continuous Integration - Grandcentrix, 2019](https://medium.com/grandcentrix/how-we-use-jenkins-pipeline-to-simplify-our-continuous-integration-4fb462b0c15c)
+* [Jenkins, Kubernetes, and Hashicorp Vault - 2018](https://medium.com/hootsuite-engineering/jenkins-kubernetes-and-hashicorp-vault-c2011bd2d66c)
 </details>
 
 <details>
@@ -215,7 +277,10 @@ Happy Learning!
 #### Articles
 * [How to Build a CI/CD Process That Deploys on Kubernetes and Focuses on Developer Independence](https://medium.com/riskified-technology/how-to-build-a-ci-cd-process-that-deploys-on-kubernetes-and-focuses-on-developer-independence-7dc4c20984a)
 * [Introducing Makisu: Uber’s Fast, Reliable Docker Image Builder for Apache Mesos and Kubernetes - Uber](https://eng.uber.com/makisu/)
+* [How we improved our CI/CD pipelines over the years - Wildlife Studios, 2020](https://medium.com/tech-at-wildlife-studios/how-we-built-a-ci-cd-that-makes-developers-happy-2222f02ab29)
 * [Lessons learned with Gitlab Runner on Kubernetes - 90 seconds, 2019](https://medium.com/90seconds/lessons-learned-with-gitlab-runner-on-kubernetes-d547c30ad5fb)
+* [Our CI/CD Journey — from Monolith to Micro-Services - Kitabisa, 2020](https://medium.com/@ardityawahyu/our-ci-cd-journey-from-monolith-to-micro-servives-9e6787dc7274)
+* [Jenkins, Kubernetes, and Hashicorp Vault - 2018](https://medium.com/hootsuite-engineering/jenkins-kubernetes-and-hashicorp-vault-c2011bd2d66c)
 </details>
 
 <details>
@@ -234,6 +299,7 @@ Happy Learning!
 
 <details>
   <summary>Rails</summary>
+
 #### Articles
 * [How We Got To Continuous Deployment With Rails, CircleCI, and Heroku - Opendoor, 2017](https://medium.com/opendoor-labs/continuous-deployment-with-rails-circleci-and-heroku-314635d800c6)
 </details>
@@ -260,15 +326,17 @@ Happy Learning!
 * [What is DevOps? - Atlassian](https://www.atlassian.com/devops)
 * [What is DevOps? - Microsoft](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops)
 * [What is DevOps? - Red Hat](https://www.redhat.com/en/topics/devops)
-* [DevOps Best Practices: Opinionated Software That Drives a Successful DevOps Culture - CloudBees](https://www.cloudbees.com/blog/devops-best-practices)
-* [8 DevOps Tools You Should Use for Opinionated, Cloud Native App Development - CloudBees](https://www.cloudbees.com/blog/devops-tools-cloud-native-development)
-* [Continuous Verification, AKA Just Doing DevOps - CloudBees](https://www.cloudbees.com/blog/continuous-verification)
+* [DevOps Best Practices: Opinionated Software That Drives a Successful DevOps Culture - CloudBees, 2021](https://www.cloudbees.com/blog/devops-best-practices)
+* [8 DevOps Tools You Should Use for Opinionated, Cloud Native App Development - CloudBees, 2021](https://www.cloudbees.com/blog/devops-tools-cloud-native-development)
+* [Continuous Verification, AKA Just Doing DevOps - CloudBees, 2020](https://www.cloudbees.com/blog/continuous-verification)
 
 </details>
 
 <details>
   <summary>AWS</summary>
-* [Netflix Cloud Security: Detecting Credential Compromise in AWS](https://netflixtechblog.com/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
+
+#### Articles
+* [Netflix Cloud Security: Detecting Credential Compromise in AWS - 2018](https://netflixtechblog.com/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
 </details>
 
 <details>
@@ -286,6 +354,12 @@ Happy Learning!
 * [Why We Stopped Using So-Called Best Practices in Our CI/CD Process - Kalisio, 2019](https://medium.com/better-programming/why-we-stopped-using-so-called-best-practices-in-our-ci-cd-process-2ff09811f633)
 * [How our CI/CD workflow provides a model for other CDNs - Verizon, 2018](https://vzmediaplatform.medium.com/how-our-ci-cd-workflow-provides-a-model-for-other-cdns-65f9f765b32a)
 * [Lessons learned with Gitlab Runner on Kubernetes - 90 seconds, 2019](https://medium.com/90seconds/lessons-learned-with-gitlab-runner-on-kubernetes-d547c30ad5fb)
+* [DevOps: How to build an efficient CI/CD pipeline - Cinglevue, 2019](https://medium.com/developers-coffee/how-to-build-an-efficient-ci-cd-pipeline-b5738ad567c8)
+* [How we improved our CI/CD pipelines over the years - Wildlife Studios, 2020](https://medium.com/tech-at-wildlife-studios/how-we-built-a-ci-cd-that-makes-developers-happy-2222f02ab29)
+* [Our CI/CD Journey — from Monolith to Micro-Services - Kitabisa, 2020](https://medium.com/@ardityawahyu/our-ci-cd-journey-from-monolith-to-micro-servives-9e6787dc7274)
+* [Speeding up our deploys by ~35% - Carwow, 2019](https://medium.com/carwow-product-engineering/speeding-up-our-heroku-deploys-by-35-percent-f9fa6f6cf404)
+* [Our story with Flutter and Gitlab-Ci - XETICS, 2019](https://medium.com/@fezu54/our-story-with-flutter-and-gitlab-ci-26bd40c26155)
+* [Jenkins, Kubernetes, and Hashicorp Vault - 2018](https://medium.com/hootsuite-engineering/jenkins-kubernetes-and-hashicorp-vault-c2011bd2d66c)
 
 #### Articles - Learn about CI/CD
 * [What is a CI/CD pipeline? - Red Hat](https://www.redhat.com/en/topics/devops/what-cicd-pipeline)
@@ -323,6 +397,7 @@ Happy Learning!
 
 <details>
   <summary>2021</summary>
+
 #### Articles
 * [DevOps Best Practices: Opinionated Software That Drives a Successful DevOps Culture - CloudBees](https://www.cloudbees.com/blog/devops-best-practices)
 * [8 DevOps Tools You Should Use for Opinionated, Cloud Native App Development - CloudBees](https://www.cloudbees.com/blog/devops-tools-cloud-native-development)
@@ -335,27 +410,38 @@ Happy Learning!
 * [Dependency Check at CI/CD Pipeline - Trendyol](https://medium.com/trendyol-tech/dependency-check-at-ci-cd-pipeline-17020e15b391)
 * [How to Build a CI/CD Process That Deploys on Kubernetes and Focuses on Developer Independence - Riskified](https://medium.com/riskified-technology/how-to-build-a-ci-cd-process-that-deploys-on-kubernetes-and-focuses-on-developer-independence-7dc4c20984a)
 * [Continuous Verification, AKA Just Doing DevOps - CloudBees](https://www.cloudbees.com/blog/continuous-verification)
+* [How we improved our CI/CD pipelines over the years - Wildlife Studios, 2020](https://medium.com/tech-at-wildlife-studios/how-we-built-a-ci-cd-that-makes-developers-happy-2222f02ab29)
+* [Our CI/CD Journey — from Monolith to Micro-Services - 2020](https://medium.com/@ardityawahyu/our-ci-cd-journey-from-monolith-to-micro-servives-9e6787dc7274)
 </details>
 
 <details>
   <summary>2019</summary>
+
 #### Podcasts
 * [Continuous Delivery at Airbnb](https://devops.com/devops-chat-continuous-delivery-at-airbnb)
+
 #### Articles
 * [Lessons learned with Gitlab Runner on Kubernetes - 90 seconds](https://medium.com/90seconds/lessons-learned-with-gitlab-runner-on-kubernetes-d547c30ad5fb)
+* [DevOps: How to build an efficient CI/CD pipeline - Cinglevue](https://medium.com/developers-coffee/how-to-build-an-efficient-ci-cd-pipeline-b5738ad567c8)
+* [Speeding up our deploys by ~35% - Carwow](https://medium.com/carwow-product-engineering/speeding-up-our-heroku-deploys-by-35-percent-f9fa6f6cf404)
+* [Our story with Flutter and Gitlab-Ci - XETICS, 2019](https://medium.com/@fezu54/our-story-with-flutter-and-gitlab-ci-26bd40c26155)
 </details>
 
 <details>
   <summary>2018</summary>
+
 #### Articles
 * [Netflix Cloud Security: Detecting Credential Compromise in AWS - Netflix](https://netflixtechblog.com/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
 * [Continuous Integration and Continuous Delivery with BitBucket Pipelines — Part 1 - Adzuna](https://medium.com/adzuna-engineering/continuous-integration-and-continuous-delivery-with-bitbucket-pipelines-part-1-588d8254f0b3)
 * [Continuous Integration and Continuous Delivery with BitBucket Pipelines — Part 2 - Adzuna](https://medium.com/adzuna-engineering/continuous-integration-and-continuous-delivery-with-bitbucket-pipelines-part-2-4d0ce7b63f2a)
 * [Tips and tricks for scalable CI/CD flow - Pixel Point](https://medium.com/pixelpoint/tips-and-tricks-for-scalable-ci-cd-flow-5fa9dd457f22)
+* [How our CI/CD workflow provides a model for other CDNs - Verizon](https://vzmediaplatform.medium.com/how-our-ci-cd-workflow-provides-a-model-for-other-cdns-65f9f765b32a)
+* [Jenkins, Kubernetes, and Hashicorp Vault - 2018](https://medium.com/hootsuite-engineering/jenkins-kubernetes-and-hashicorp-vault-c2011bd2d66c)
 </details>
 
 <details>
   <summary>2017</summary>
+
 #### Articles
 * [Rapid release at massive scale - Facebook](https://engineering.fb.com/2017/08/31/web/rapid-release-at-massive-scale)
 * [Security at Speed: Modern Security and DevOps - Uber](https://medium.com/uber-security-privacy/speed-security-devops-7f3ee7e5a2ae)
