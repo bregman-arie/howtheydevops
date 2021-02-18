@@ -81,6 +81,20 @@ Happy Learning!
 </details>
 
 <details>
+  <summary>Codefresh</summary>
+
+#### Articles
+* [CI/CD Pipelines for Kubernetes Apps with Pulumi & Codefresh - 2021](https://codefresh.io/webinars/ci-cd-pipelines-kubernetes-apps-pulumi-codefresh)
+* [Using Google Container Registry To Invoke Codefresh Pipelines - 2021](https://codefresh.io/continuous-integration/using-google-container-registry-invoke-codefresh-pipelines/)
+* [What Is Zero Trust & How Do We Implement It to Run Secure CI/CD Workflows in Kubernetes? - 2021](https://codefresh.io/security-testing/codefresh-runner-overview)
+* [Kubernetes Deployment Antipatterns – part 1 - 2021](https://codefresh.io/kubernetes-tutorial/kubernetes-antipatterns-1)
+* [Kubernetes Deployment Antipatterns – part 2 - 2021](https://codefresh.io/kubernetes-tutorial/kubernetes-antipatterns-2)
+* [Kubernetes Deployment Antipatterns – part 3 - 2021](https://codefresh.io/kubernetes-tutorial/kubernetes-antipatterns-3)
+#### Blogs
+* [Codefresh blog](https://codefresh.io/blog)
+</details>
+
+<details>
   <summary>Facebook</summary>
 
 #### Articles
@@ -248,6 +262,14 @@ Happy Learning!
 </details>
 
 <details>
+  <summary>Codefresh</summary>
+
+#### Articles
+* [CI/CD Pipelines for Kubernetes Apps with Pulumi & Codefresh - Codefresh, 2021](https://codefresh.io/webinars/ci-cd-pipelines-kubernetes-apps-pulumi-codefresh)
+* [Using Google Container Registry To Invoke Codefresh Pipelines - Codefresh, 2021](https://codefresh.io/continuous-integration/using-google-container-registry-invoke-codefresh-pipelines/)
+</details>
+
+<details>
   <summary>GitLab</summary>
 
 #### Articles
@@ -275,6 +297,9 @@ Happy Learning!
   <summary>Kubernetes</summary>
 
 #### Articles
+* [Kubernetes Deployment Antipatterns – part 1 - Codefresh, 2021](https://codefresh.io/kubernetes-tutorial/kubernetes-antipatterns-1)
+* [Kubernetes Deployment Antipatterns – part 2 - Codefresh, 2021](https://codefresh.io/kubernetes-tutorial/kubernetes-antipatterns-2)
+* [Kubernetes Deployment Antipatterns – part 3 - Codefresh, 2021](https://codefresh.io/kubernetes-tutorial/kubernetes-antipatterns-3)
 * [How to Build a CI/CD Process That Deploys on Kubernetes and Focuses on Developer Independence](https://medium.com/riskified-technology/how-to-build-a-ci-cd-process-that-deploys-on-kubernetes-and-focuses-on-developer-independence-7dc4c20984a)
 * [Introducing Makisu: Uber’s Fast, Reliable Docker Image Builder for Apache Mesos and Kubernetes - Uber](https://eng.uber.com/makisu/)
 * [How we improved our CI/CD pipelines over the years - Wildlife Studios, 2020](https://medium.com/tech-at-wildlife-studios/how-we-built-a-ci-cd-that-makes-developers-happy-2222f02ab29)
@@ -343,6 +368,7 @@ Happy Learning!
   <summary>CI/CD</summary>
 
 #### Articles - How companies practice and apply CI/CD
+* [What Is Zero Trust & How Do We Implement It to Run Secure CI/CD Workflows in Kubernetes? - Codefresh, 2021](https://codefresh.io/security-testing/codefresh-runner-overview)
 * [How to Build a CI/CD Process That Deploys on Kubernetes and Focuses on Developer Independence - Riskified, 2020](https://medium.com/riskified-technology/how-to-build-a-ci-cd-process-that-deploys-on-kubernetes-and-focuses-on-developer-independence-7dc4c20984a)
 * [We deploy everyday and this is how! - Prismic, 2017](https://medium.com/@prismicio/we-deploy-everyday-and-this-is-how-6a5fc8fb0e2e)
 * [Continuous Integration and Continuous Delivery with BitBucket Pipelines — Part 1 - Adzuna, 2018](https://medium.com/adzuna-engineering/continuous-integration-and-continuous-delivery-with-bitbucket-pipelines-part-1-588d8254f0b3)
@@ -364,6 +390,10 @@ Happy Learning!
 #### Articles - Learn about CI/CD
 * [What is a CI/CD pipeline? - Red Hat](https://www.redhat.com/en/topics/devops/what-cicd-pipeline)
 * [Tips and tricks for scalable CI/CD flow - Pixel Point, 2018](https://medium.com/pixelpoint/tips-and-tricks-for-scalable-ci-cd-flow-5fa9dd457f22)
+
+#### Articles - CI/CD with company products
+* [CI/CD Pipelines for Kubernetes Apps with Pulumi & Codefresh - Codefresh, 2021](https://codefresh.io/webinars/ci-cd-pipelines-kubernetes-apps-pulumi-codefresh)
+* [Using Google Container Registry To Invoke Codefresh Pipelines - Codefresh, 2021](https://codefresh.io/continuous-integration/using-google-container-registry-invoke-codefresh-pipelines/)
 
 #### Books
 * [Free - DevOps with OpenShift](https://developers.redhat.com/topics/devops)
@@ -399,6 +429,12 @@ Happy Learning!
   <summary>2021</summary>
 
 #### Articles
+* [CI/CD Pipelines for Kubernetes Apps with Pulumi & Codefresh - Codefresh, 2021](https://codefresh.io/webinars/ci-cd-pipelines-kubernetes-apps-pulumi-codefresh)
+* [Using Google Container Registry To Invoke Codefresh Pipelines - Codefresh, 2021](https://codefresh.io/continuous-integration/using-google-container-registry-invoke-codefresh-pipelines/)
+* [What Is Zero Trust & How Do We Implement It to Run Secure CI/CD Workflows in Kubernetes? - Codefresh, 2021](https://codefresh.io/security-testing/codefresh-runner-overview)
+* [Kubernetes Deployment Antipatterns – part 1 - Codefresh, 2021](https://codefresh.io/kubernetes-tutorial/kubernetes-antipatterns-1)
+* [Kubernetes Deployment Antipatterns – part 2 - Codefresh, 2021](https://codefresh.io/kubernetes-tutorial/kubernetes-antipatterns-2)
+* [Kubernetes Deployment Antipatterns – part 3 - Codefresh, 2021](https://codefresh.io/kubernetes-tutorial/kubernetes-antipatterns-3)
 * [DevOps Best Practices: Opinionated Software That Drives a Successful DevOps Culture - CloudBees](https://www.cloudbees.com/blog/devops-best-practices)
 * [8 DevOps Tools You Should Use for Opinionated, Cloud Native App Development - CloudBees](https://www.cloudbees.com/blog/devops-tools-cloud-native-development)
 </details>
