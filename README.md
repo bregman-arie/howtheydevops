@@ -484,10 +484,11 @@ Happy Learning!
 * [We deploy everyday and this is how! - Prismic](https://medium.com/@prismicio/we-deploy-everyday-and-this-is-how-6a5fc8fb0e2e)
 </details>
 
-### Other DevOps Projects
+### More Infra & DevOps projects
 
 <p align="center"><a href="https://github.com/bregman-arie/devops-exercises"><img src="images/devops_exercises.png"/></a></p>
 <p align="center"><a href="https://github.com/bregman-arie/devops-resources"><img src="images/devops_resources.png"/></a></p>
+<p align="center"><a href="https://github.com/bregman-arie/infraverse"><img src="images/infraverse.png"/></a></p>
 
 ### Credits
 * Inspired by [Howtheytest](https://github.com/abhivaikar/howtheytest) from [Abhijeet Vaikar](https://github.com/abhivaikar)
