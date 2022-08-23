@@ -133,6 +133,13 @@ Happy Learning!
 </details>
 
 <details>
+  <summary>Lyft</summary>
+
+#### Articles
+* [Continuous Deployment at Lyft - 2022](https://eng.lyft.com/continuous-deployment-at-lyft-9b457314771a)
+</details>
+
+<details>
   <summary>Microsoft</summary>
 
 #### Articles
