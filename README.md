@@ -1,4 +1,4 @@
-<p align="center"><img src="images/how_they_devops.png"/></p> 
+<p align="center"><img src="images/how_they_devops.png"/></p>
 
 > A curated collection of publicly available resources on how companies around the world practice DevOps
 
@@ -288,6 +288,7 @@ Happy Learning!
 
 <details>
   <summary>Jenkins</summary>
+
 #### Articles
 * [How we use Jenkins Pipeline to standardize our Continuous Integration - Grandcentrix, 2019](https://medium.com/grandcentrix/how-we-use-jenkins-pipeline-to-simplify-our-continuous-integration-4fb462b0c15c)
 * [Jenkins, Kubernetes, and Hashicorp Vault - 2018](https://medium.com/hootsuite-engineering/jenkins-kubernetes-and-hashicorp-vault-c2011bd2d66c)
@@ -331,6 +332,8 @@ Happy Learning!
 
 <details>
   <summary>Travis CI</summary>
+
+#### Articles
 * [Why We Stopped Using So-Called Best Practices in Our CI/CD Process - Kalisio, 2019](https://medium.com/better-programming/why-we-stopped-using-so-called-best-practices-in-our-ci-cd-process-2ff09811f633)
 </details>
 
