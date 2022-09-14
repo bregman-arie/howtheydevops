@@ -424,6 +424,7 @@ Happy Learning!
 * [You call that DevSecOps? Why your DevSecOps practice may be falling short - Red Hat](https://www.redhat.com/en/blog/devsecops-reducing-risk-and-increasing-agility)
 * [Security at Speed: Modern Security and DevOps - Uber, 2017](https://medium.com/uber-security-privacy/speed-security-devops-7f3ee7e5a2ae)
 * [Netflix Cloud Security: Detecting Credential Compromise in AWS - Netflix, 2018](https://netflixtechblog.com/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
+* [DevSecOps: Making Security Central To Your DevOps Pipeline - Spacelift](https://spacelift.io/blog/what-is-devsecops)
 </details>
 
 <details>
