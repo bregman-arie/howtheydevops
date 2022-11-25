@@ -220,6 +220,15 @@ Happy Learning!
 </details>
 
 <details>
+  <summary>Slack</summary>
+
+#### Articles
+* [How we use Terraform at Slack - 2022](https://slack.engineering/how-we-use-terraform-at-slack/)
+* [Development Environments at Slack - 2020](https://slack.engineering/development-environments-at-slack/)
+* [Deploys at Slack - 2020](https://slack.engineering/deploys-at-slack/)
+</details>
+
+<details>
   <summary>Trendyol</summary>
 
 #### Articles
